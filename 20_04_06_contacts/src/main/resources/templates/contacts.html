@@ -16,7 +16,7 @@
             <th>Name</th>
             <th>Last Name</th>
             <th>Edit</th>
-            <th>Delete</th>
+            <th>.Delete</th>
         </tr>
         <tr th:each="contact: ${contacts}">
             <td><a th:href="'/contact/'+ ${contact.id}"><span th:text="${contact.name}"></span></a></td>
