@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>Contacts</title>
+</head>
+<body>
+<section class="contact-form">
+    <h1 class="title">Contacts </h1>
+    <div class="w-100 align-center">
+        <a href="/contact" class="button" style="background-color: #8bc34a">add</a>
+    </div>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Last Name</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+        <tr th:each="contact: ${contacts}">
+            <td><a th:href="'/contact/'+ ${contact.id}"><span th:text="${contact.name}"></span></a></td>
+            <td><a th:href="'/contact/'+ ${contact.id}"><span th:text="${contact.lastName}"></span></a></td>
+            <td><a th:href="'/contact/edit/' + ${contact.id}"><img class="icons" src="/img/pencil.png" alt=""></a></td>
+            <td><a th:href="'/contact/remove/' + ${contact.id}"><img class="icons" src="/img/trash.png" alt=""></a></td>
+        </tr>
+    </table>
+</section>
+</body>
+</html>

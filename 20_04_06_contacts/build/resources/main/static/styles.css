@@ -1,0 +1,179 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300);
+@import url(https://fonts.googleapis.com/css?family=Lusitana:400,700);
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+.contact-form {
+    /*max-width: 650px;*/
+    max-width: 95%;
+    margin: 100px auto;
+}
+
+
+.contact-form .title {
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 36px;
+    line-height: 48px;
+    padding-bottom: 18px;
+}
+
+.w-100 {
+    width: 100%;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+
+.w-50 {
+    width: 50%;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+
+
+input[type=text] {
+    display: block;
+    width: 100%;
+    height: 36px;
+    border-width: 0 0 2px 0;
+    border-color: #000;
+    font-family: Lusitana, serif;
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 400;
+    outline: none;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+
+input[type=number] {
+    display: block;
+    width: 100%;
+    height: 36px;
+    border-width: 0 0 2px 0;
+    border-color: #000;
+    font-family: Lusitana, serif;
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 400;
+    outline: none;
+}
+
+
+input[type=submit] {
+    display: inline-block;
+    background-color: #1E88E5;
+    color: #fff;
+    font-family: Raleway, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+input:hover[type=submit] {
+    background-color: orange;
+}
+
+
+.button {
+    color: #fff;
+    font-family: Raleway, sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    letter-spacing: 2px;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 8px 16px;
+    background-color: #e51e31;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.label {
+    font-family: Lusitana, serif;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #888;
+    cursor: text;
+}
+
+.icons{
+    width: 30px;
+}
+
+.icons{
+    width: 25px;
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.home{
+    font-family: Raleway, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin-left: 40%;
+}
+.home div{
+    margin: 15px;
+}
+
+
+table {
+    font-family: Lusitana, serif;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 600;
+    cursor: text;
+
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #8bc34a;
+}

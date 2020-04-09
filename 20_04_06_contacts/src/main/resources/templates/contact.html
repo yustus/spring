@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<section class="contact-form">
+    <h1 class="title">Contact </h1>
+
+    <div class="w-100">
+        <label class="label">Name</label>
+        <input type="text" th:field="*{contact.name}" readonly/>
+    </div>
+
+    <div class="w-100">
+        <label class="label">Last Name</label>
+        <input type="text" th:field="*{contact.lastName}" readonly/>
+    </div>
+    <div class="w-100">
+        <label class="label">Age</label>
+        <input type="number" th:field="*{contact.age}" readonly/>
+
+    </div>
+    <div class="home" style="display: flex" >
+        <div>
+        <a href="/contacts"><img class="icons" src="/img/home.png" alt=""></a>
+        <h2>Home</h2>
+        </div>
+        <div>
+        <a th:href="'/contact/edit/' + ${contact.id}"><img class="icons" src="/img/pencil.png" alt=""></a>
+        <h2>Edit</h2>
+        </div>
+        <div>
+        <a th:href="'/contact/remove/' + ${contact.id}"><img class="icons" src="/img/trash.png" alt=""></a>
+        <h2>Delete</h2>
+        </div>
+    </div>
+
+</section>
+</body>
+</html>
