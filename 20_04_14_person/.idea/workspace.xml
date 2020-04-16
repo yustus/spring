@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53f51382-97e4-40c8-9aba-8123c1153e85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1aYB0LisQfBCzZ8tqUEaiaX1UjT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PersonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="person.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.telran.person.PersonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53f51382-97e4-40c8-9aba-8123c1153e85" name="Default Changelist" comment="" />
+      <created>1586902422553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586902422553</updated>
+      <workItem from="1586902426014" duration="1048000" />
+      <workItem from="1586974242753" duration="20265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1425" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1586981965298">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state x="1425" y="268" key="#com.intellij.ide.util.MemberChooser/0.0.3413.1400@0.0.3413.1400" timestamp="1586981965298" />
+    <state x="1313" y="315" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586986627775">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state x="1313" y="315" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.3413.1400@0.0.3413.1400" timestamp="1586986627775" />
+    <state width="3346" height="203" key="GridCell.Tab.0.bottom" timestamp="1586999275869">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="3346" height="203" key="GridCell.Tab.0.bottom/0.0.3413.1400@0.0.3413.1400" timestamp="1586999275869" />
+    <state width="3346" height="203" key="GridCell.Tab.0.center" timestamp="1586999275869">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="3346" height="203" key="GridCell.Tab.0.center/0.0.3413.1400@0.0.3413.1400" timestamp="1586999275869" />
+    <state width="3346" height="203" key="GridCell.Tab.0.left" timestamp="1586999275869">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="3346" height="203" key="GridCell.Tab.0.left/0.0.3413.1400@0.0.3413.1400" timestamp="1586999275869" />
+    <state width="3346" height="203" key="GridCell.Tab.0.right" timestamp="1586999275869">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="3346" height="203" key="GridCell.Tab.0.right/0.0.3413.1400@0.0.3413.1400" timestamp="1586999275869" />
+    <state width="3346" height="203" key="GridCell.Tab.1.bottom" timestamp="1586999275869">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="3346" height="203" key="GridCell.Tab.1.bottom/0.0.3413.1400@0.0.3413.1400" timestamp="1586999275869" />
+    <state width="3346" height="203" key="GridCell.Tab.1.center" timestamp="1586999275869">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="3346" height="203" key="GridCell.Tab.1.center/0.0.3413.1400@0.0.3413.1400" timestamp="1586999275869" />
+    <state width="3346" height="203" key="GridCell.Tab.1.left" timestamp="1586999275869">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="3346" height="203" key="GridCell.Tab.1.left/0.0.3413.1400@0.0.3413.1400" timestamp="1586999275869" />
+    <state width="3346" height="203" key="GridCell.Tab.1.right" timestamp="1586999275869">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="3346" height="203" key="GridCell.Tab.1.right/0.0.3413.1400@0.0.3413.1400" timestamp="1586999275869" />
+    <state x="1257" y="424" key="com.intellij.ide.util.TipDialog" timestamp="1586974294836">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state x="1257" y="424" key="com.intellij.ide.util.TipDialog/0.0.3413.1400@0.0.3413.1400" timestamp="1586974294836" />
+    <state x="1330" y="155" key="refactoring.ChangeSignatureDialog" timestamp="1586981919309">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state x="1330" y="155" key="refactoring.ChangeSignatureDialog/0.0.3413.1400@0.0.3413.1400" timestamp="1586981919309" />
+  </component>
+</project>
